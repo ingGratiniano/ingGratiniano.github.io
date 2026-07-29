@@ -39,4 +39,7 @@ Además de mi trabajo como independiente, he colaborado con empresas como Smart 
 
 ### 📫 Contacto
 
-Si está interesado en mi perfil o en algún proyecto, puede contactarme a través de los siguientes medios. Siempre estoy abierto a nuevos desafíos en el mundo de la electrónica y los sistemas embebidos.
+Si está interesado en mi perfil o en algún proyecto, puede contactarme a través de los siguientes medios:
+Cel +57 3059020893
+e-mail: eduardo.lopez.lasprilla@gmail.com
+Siempre estoy abierto a nuevos desafíos en el mundo de la electrónica y los sistemas embebidos.
