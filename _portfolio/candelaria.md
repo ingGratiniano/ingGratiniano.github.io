@@ -3,7 +3,7 @@ title: "Refacción al órgano histórico de la Iglesia de la Candelaria"
 collection: portfolio
 permalink: /portfolio/candelaria
 excerpt: "Refacción en parte de los sistemas electricos del órgano de la Iglesia de la Candelaria en Bogotá."
-date: 2024-08
+date: 2024-08-01
 ---
 
 **Fecha:** 2024
