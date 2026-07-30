@@ -1,7 +1,9 @@
 main:
   - title: "Sobre mí"
     url: /about/
-  - title: "Proyectos Universitarios"
-    url: /proyectos-universitarios/
   - title: "Portafolio"
     url: /portfolio/
+  - title: "Proyectos 2018-2022"
+    url: /proyectos-2018-2022/
+  - title: "Proyectos Universitarios"
+    url: /proyectos-universitarios/
