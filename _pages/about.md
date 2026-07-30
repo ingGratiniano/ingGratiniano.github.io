@@ -5,7 +5,7 @@ permalink: /about/
 
 ## 👋 Hola, soy Gratiniano López
 
-<img src="/images/FotoRed.jpg" alt="Gratiniano López" style="width:200px; border-radius:50%; float:right; margin-left:20px;">
+<img src="/images/FotoRed - copia.jpg" alt="Gratiniano López" style="width:200px; border-radius:50%; float:right; margin-left:20px;">
 
 Ingeniero Electrónico con más de 8 años de experiencia en el diseño de hardware y firmware para sistemas embebidos. Mi trabajo se enfoca en crear soluciones robustas, desde el concepto y el diseño de PCBs hasta la programación de microcontroladores y sistemas Linux embebidos.
 
