@@ -3,7 +3,7 @@ title: "Diseño de PCB en Smart Ingeniería"
 collection: portfolio
 permalink: /portfolio/smart-ingenieria
 excerpt: "Diseño de PCBs para módulos de cargadores de vehículos eléctricos con Ethernet, USB, CAN, RS-485 y fuentes conmutadas."
-date: 2025-02-01
+date: 2025-02
 ---
 
 **Ingeniero de Diseño Electrónico (Feb 2025 – Oct 2025)**
