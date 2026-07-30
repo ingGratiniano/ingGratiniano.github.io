@@ -3,7 +3,7 @@ title: "Órgano Digital Profesional"
 collection: portfolio
 permalink: /portfolio/organo-digital
 excerpt: "Plataforma completa de órgano digital con motor de audio en C sobre Linux embebido, polifonía robusta y arquitectura escalable."
-date: 2025-01-01
+date: 2025-08
 ---
 
 **Proyecto integral en solitario (2025 - Actualidad)**
