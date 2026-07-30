@@ -41,7 +41,9 @@ Mi trabajo ha sido reconocido en medios de comunicación, como la intervención 
 
 ### 📫 Contacto
 
-Si está interesado en mi perfil o en algún proyecto, puede contactarme a través de los siguientes medios:
-Cel +57 3059020893
-e-mail: eduardo.lopez.lasprilla@gmail.com
-Siempre estoy abierto a nuevos desafíos en el mundo de la electrónica y los sistemas embebidos.
+Si está interesado en mi perfil o en algún proyecto, puede contactarme a través de los siguientes medios. Siempre estoy abierto a nuevos desafíos en el mundo de la electrónica y los sistemas embebidos.
+
+- 📧 **Email:** eduardo.lopez.lasprilla@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/eduardo-lopez-lasprilla](https://www.linkedin.com/in/eduardo-lopez-lasprilla/)
+- 📄 **CV completo:** [Descargar CV (PDF)](/CV.pdf)
+- 📱 **WhatsApp:** +57 3059020893
