@@ -25,6 +25,8 @@ Mi trayectoria incluye el desarrollo de proyectos integrales de electrónica, co
 
 Además de mi trabajo como independiente, he colaborado con empresas como Smart Ingeniería, Micromotores SAS y PS.BPO - Bluearas, donde he liderado el diseño de hardware, el desarrollo de firmware y la validación de prototipos. También tengo experiencia en el ambito educativo con la Corporación Maloka.
 
+Mi trabajo ha sido reconocido en medios de comunicación, como la intervención del órgano histórico de la Iglesia de la Candelaria en Bogotá, un proyecto que fue destacado en una nota periodística nacional: [Artículo: Álvaro Tinjacá: Organista Colombiano](https://noticiascolombia.com.co/alvaro_tinjaca_maestro_cantor_colombiano_en_alemania.html).
+
 ---
 
 ### 📜 Formación e idiomas
