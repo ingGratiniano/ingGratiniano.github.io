@@ -3,7 +3,7 @@ title: "Diseño de Hardware en Micromotores SAS"
 collection: portfolio
 permalink: /portfolio/micromotores
 excerpt: "Diseño y validación de hardware para prototipos RF (BLE) e IMU, y desarrollo de firmware en PIC y ESP32 con RTOS."
-date: 2025-10-01
+date: 2025-10
 ---
 
 **Ingeniero Electrónico (Oct 2025 – Mar 2026)**
