@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-permalink: /about/
+permalink: /
 ---
 
 ## 👋 Hola, soy Gratiniano López
