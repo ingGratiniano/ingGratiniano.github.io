@@ -1,5 +1,5 @@
 ---
-title: "Proyectos 2018 - 2022"
+title: "Proyectos 2018 - 2025"
 permalink: /proyectos-2018-2022/
 ---
 
@@ -7,11 +7,67 @@ Esta sección agrupa proyectos desarrollados durante mi etapa de consolidación 
 
 ---
 
+## 🎹 Organería y Sistemas MIDI (2019 - 2025)
+
+### Órgano tubular de acción electrónica (proyecto de evolución)
+
+**Fecha:** 2021 – 2025 (en desarrollo, evolucionó hacia el órgano digital)
+
+**Problema:** Diseñar la electrónica para un órgano tubular de acción electrónica. Durante el desarrollo, el proyecto evolucionó hacia una solución más versátil y potente.
+
+**Mi rol:** Diseño y fabricación de sistemas electrónicos, incluyendo esquemáticos, firmware, PCBs y sistemas MIDI. El aprendizaje y los desarrollos de este proyecto sentaron las bases para el órgano digital profesional que se encuentra en la sección de Portafolio.
+
+**Tecnologías:** Microcontroladores PIC, MIDI, diseño de PCBs.
+
+**Estado actual:** Proyecto en evolución, integrado en el desarrollo del órgano digital profesional.
+
+---
+### Tarjeta de escaneo/control MIDI
+
+**Fecha:** 2025
+
+**Problema:** Diseñar una tarjeta de escaneo de teclado de alta velocidad para aplicaciones MIDI.
+
+**Mi rol:** Diseño y fabricación de la PCB y desarrollo del firmware.
+
+**Tecnologías:** Microcontroladores, MIDI, diseño de PCB.
+
+---
+
+### Refacción al órgano histórico de la Iglesia de la Candelaria (Bogotá)
+
+**Fecha:** 2024
+
+**Problema:** Restaurar y actualizar los sistemas electrónicos del órgano histórico de la Iglesia de Nuestra Señora de la Candelaria en el centro de Bogotá.
+
+**Mi rol:** Diagnóstico, reparación y actualización de los sistemas electrónicos existentes.
+
+**Tecnología:** Electrónica analógica y digital, sistemas de control para órganos.
+
+---
+
 ### Display de gran formato para órgano
+
+**Fecha:** 2018
 
 **Problema:** Permitir al organista ingresar el número del canto desde la consola del órgano (ubicada en el coro) y transmitirlo a un display en la parte delantera del templo para que la congregación visualice la información.
 
 **Mi rol:** Desarrollo completo del sistema de visualización, incluyendo la interfaz en la consola y el display remoto.
+
+Actualmente el display continúa funcionando perfectamente.
+
+---
+
+
+### Sistema de pedalero MIDI
+
+**Fecha:** 2018
+
+**Problema:** Desarrollar un sistema electrónico de pedalero MIDI para órganos, permitiendo la integración de pedales con consolas digitales.
+
+**Mi rol:** Diseño electrónico y desarrollo de firmware para el sistema de pedalero.
+
+**Tecnologías:** Microcontroladores, MIDI, diseño de PCB.
 
 ---
 
