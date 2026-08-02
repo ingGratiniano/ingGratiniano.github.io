@@ -1,6 +1,8 @@
 ---
 title: "Sobre mí"
 permalink: /
+layout: single
+sidebar: false
 ---
 
 ## 👋 Hola, soy Gratiniano López
