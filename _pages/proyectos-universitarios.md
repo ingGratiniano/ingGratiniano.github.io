@@ -1,6 +1,9 @@
 ---
 title: "Proyectos Universitarios"
 permalink: /proyectos-universitarios/
+layout: single
+author_profile: false
+sidebar: false
 ---
 
 Aquí se presentan algunos de los proyectos más significativos que desarrollé durante mi formación como Ingeniero Electrónico en la Universidad Manuela Beltrán.
