@@ -14,7 +14,7 @@ Ingeniero Electrónico con más de 8 años de experiencia en el diseño de hardw
 
 ---
 
-### 💡 Áreas de especialización
+### 💡 Áreas de experiencia
 
 *   **Diseño de Hardware y PCB:** KiCad, EAGLE, Fusion Electronics, Altium. Ensamble y soldadura SMD/THT.
 *   **Firmware y Sistemas Embebidos:** C, C++, Python en plataformas STM32, PIC, ESP32 y CH32.
