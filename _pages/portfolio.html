@@ -6,4 +6,14 @@ sidebar: false
 permalink: /portfolio/
 ---
 
-{% include portfolio.html %}
+<div class="entries-grid">
+  {% for post in site.portfolio %}
+    <article class="entry">
+      <h2 class="entry-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <p class="entry-excerpt">{{ post.excerpt }}</p>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+    </article>
+  {% endfor %}
+</div>
