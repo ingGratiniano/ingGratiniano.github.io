@@ -1,6 +1,6 @@
 main:
   - title: "Sobre mí"
-    url: /about/
+    url: /
   - title: "Portafolio"
     url: /portfolio/
   - title: "Proyectos 2018-2022"
