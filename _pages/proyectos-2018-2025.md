@@ -1,6 +1,9 @@
 ---
-title: "Proyectos 2018 - 2025"
+title: "Proyectos 2018 - 2022"
 permalink: /proyectos-2018-2022/
+layout: single
+author_profile: false
+sidebar: false
 ---
 
 Esta sección agrupa proyectos desarrollados durante mi etapa de consolidación como ingeniero electrónico independiente y en mis primeras experiencias laborales.
