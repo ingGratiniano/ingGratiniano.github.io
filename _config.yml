@@ -302,3 +302,9 @@ compress_html:
   ignore:
     envs: development
 show_sidebar: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: false
