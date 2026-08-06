@@ -7,7 +7,7 @@ image: /images/organo_sin_fondo.png
 date: 2025-08-01
 ---
 
-**Proyecto integral en solitario (2025 - Actualidad)**
+**Proyecto integral. colaborazión con el taller Gil organería (2025 - Actualidad)**
 
 **Problema:** Diseñar una plataforma completa de órgano digital profesional con un motor de audio de baja latencia, polifonía robusta y una arquitectura escalable, superando las limitaciones de soluciones comerciales con un presupuesto reducido.
 
