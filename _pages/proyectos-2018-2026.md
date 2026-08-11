@@ -1,6 +1,6 @@
 ---
-title: "Proyectos 2018 - 2022"
-permalink: /proyectos-2018-2022/
+title: "Proyectos 2018 - 2026"
+permalink: /proyectos-2018-2026/
 layout: single
 author_profile: false
 sidebar: false
