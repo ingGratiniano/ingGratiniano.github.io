@@ -4,6 +4,7 @@ collection: portfolio
 permalink: /portfolio/organo-digital
 excerpt: "Plataforma completa de órgano digital con motor de audio en C sobre Linux embebido, polifonía robusta y arquitectura escalable."
 image: /images/organo_sin_fondo.png
+teaser: /images/organo_sin_fondo.png
 date: 2025-08-01
 ---
 
