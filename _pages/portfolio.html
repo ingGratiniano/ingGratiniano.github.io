@@ -5,20 +5,40 @@ permalink: /portfolio/
 classes: wide
 ---
 
-{% if site.portfolio %}
-<!--<h1 class="page__title">Portafolio</h1>-->
-  <p>Proyectos destacados de mi trabajo como ingeniero electrónico.</p>
+<p>Proyectos destacados de mi trabajo como ingeniero electrónico.</p>
 
+{% if site.portfolio %}
   <div class="grid">
     {% for post in site.portfolio %}
       <div class="grid-item">
-        {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width:100%; height:auto; max-height:400px; object-fit:contain;">
-        {% endif %}
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | markdownify }}</p>
         <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+        {% if post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width:100%; max-height:300px; object-fit:contain; background-color:#f0f0f0; margin-top:10px;">
+        {% endif %}
       </div>
     {% endfor %}
   </div>
 {% endif %}
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .grid-item {
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fafafa;
+  }
+  .grid-item h2 {
+    margin-top: 0;
+  }
+  .grid-item img {
+    margin-top: 10px;
+  }
+</style>
