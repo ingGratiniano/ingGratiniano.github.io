@@ -1,19 +1,29 @@
 ---
-title: "Portafolio"
-layout: single
+title: Portafolio
+layout: collection
+permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+classes: wide
 author_profile: false
 sidebar: false
-permalink: /portfolio/
 ---
 
-<div class="entries-grid">
+<h1 class="page__title">Portafolio</h1>
+<p>Proyectos destacados de mi trabajo como ingeniero electrónico.</p>
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
   {% for post in site.portfolio %}
     <article class="entry">
       <h2 class="entry-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
-      <p class="entry-excerpt">{{ post.excerpt }}</p>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+      {% if post.excerpt %}
+        <div class="entry-excerpt">{{ post.excerpt | markdownify }}</div>
+      {% endif %}
+      <footer class="entry-meta">
+        <span class="entry-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      </footer>
     </article>
   {% endfor %}
 </div>
