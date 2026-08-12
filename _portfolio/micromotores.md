@@ -1,18 +1,51 @@
 ---
-title: "Diseño de Hardware en Micromotores SAS"
+title: "Ingeniería Electrónica en Micromotores SAS"
 collection: portfolio
 permalink: /portfolio/micromotores
+excerpt: "Diseño de hardware RF (BLE), desarrollo de firmware con RTOS, equipos de prueba y diseño de PCBs para maquinaria industrial."
 image: /images/MM1.jpg
-excerpt: "Diseño y validación de hardware para prototipos RF (BLE) e IMU, y desarrollo de firmware en PIC y ESP32 con RTOS."
-date: 2025-10-22
+date: 2025-10-01
 ---
 
-**Ingeniero Electrónico (Oct 2025 – Mar 2026)**
+**Ingeniero Electrónico – Micromotores SAS (Oct 2025 – Mar 2026)**
 
-**Problema:** Mejorar la precisión y el monitoreo en maquinaria industrial mediante el desarrollo de hardware inalámbrico (BLE) y con sensores de movimiento (IMU) para sus productos comerciales.
+En mi paso por Micromotores SAS, participé en múltiples proyectos de desarrollo y mejora para maquinaria industrial y productos comerciales.
 
-**Mi rol:** Diseñé y validé hardware para prototipos RF e IMU. Desarrollé firmware en PIC y ESP32 con RTOS para control de precisión. Diseñé PCBs en EAGLE y EasyEDA, supervisé el ensamble y la validación con ensambladores internacionales.
+---
 
-**Tecnologías:** BLE, IMU, PIC, ESP32, RTOS, EAGLE, EasyEDA.
+### 📡 Diseño y validación de hardware RF (BLE) e IMU
 
-**Logros:** Mejoras en el control de precisión de la maquinaria y equipos de prueba para garantizar la calidad.
+Desarrollo de prototipos para mejorar las capacidades de monitoreo y control en productos comerciales.
+
+![Prototipo RF BLE](/images/micromotores-rf.jpg)
+
+---
+
+### ⚙️ Firmware para control de precisión
+
+Programación en PIC y ESP32 con RTOS para optimizar el control de maquinaria industrial existente.
+
+![Firmware en PIC y ESP32](/images/MM2.jpg)
+
+---
+
+### 🧪 Equipos de prueba y control de calidad
+
+Desarrollo de sistemas de validación para ensambladores en el extranjero.
+
+![Equipos de prueba](/images/micromotores-pruebas.jpg)
+
+---
+
+### 🖥️ Diseño de PCBs
+
+Creación de placas en EAGLE y EasyEDA para prototipado y pruebas, incluyendo ensamble THT/SMD.
+
+
+
+---
+
+**Tecnologías:** BLE, IMU, PIC, ESP32, RTOS, EAGLE, EasyEDA, ensamble SMD/THT.
+
+**Resultado:** Mejoras en el control de precisión de la maquinaria, nuevos prototipos funcionales y equipos de prueba para garantizar la calidad de los productos.
+![Tecnotapa - IMU](/images/tecnotapa.png)
