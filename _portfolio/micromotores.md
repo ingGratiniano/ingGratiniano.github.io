@@ -17,7 +17,6 @@ En mi paso por Micromotores SAS, participé en múltiples proyectos de desarroll
 
 Desarrollo de prototipos para mejorar las capacidades de monitoreo y control en productos comerciales.
 
-![Prototipo RF BLE](/images/micromotores-rf.jpg)
 
 ---
 
@@ -33,7 +32,6 @@ Programación en PIC y ESP32 con RTOS para optimizar el control de maquinaria in
 
 Desarrollo de sistemas de validación para ensambladores en el extranjero.
 
-![Equipos de prueba](/images/micromotores-pruebas.jpg)
 
 ---
 
