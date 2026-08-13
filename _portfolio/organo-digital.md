@@ -106,3 +106,5 @@ El mismo proceso se invierte al apagar, asegurando que cada componente se descon
 ---
 
 **Resultado final:** Un órgano digital profesional que integra tecnologías de detección de vanguardia (reed switches y sensores HAL) para garantizar una fiabilidad y durabilidad excepcionales, desarrollado de forma integral desde el concepto hasta el prototipo funcional. Todo el sistema, desde el motor de audio hasta los altavoces, es diseño y fabricación 100% propia.
+
+[← Volver al Portafolio](/portfolio/)
