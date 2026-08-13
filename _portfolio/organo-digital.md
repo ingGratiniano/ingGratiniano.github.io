@@ -12,6 +12,21 @@ date: 2025-08-01
 El órgano digital profesional es el proyecto más grande y completo de mi carrera. Abarca todas las áreas de la ingeniería electrónica: hardware, firmware, software, diseño de PCBs, acústica y mecánica. Cada componente fue diseñado, fabricado y programado por mí, desde el concepto hasta el producto funcional.
 
 ---
+### ⚡ Sistema Inteligente de Encendido / Apagado Secuencial
+
+**Descripción:** Desarrollo de un sistema de control basado en un microcontrolador dedicado que monitorea un pulsador de encendido/apagado (normalmente abierto). Dependiendo de la pulsación, el sistema activa de forma **secuencial y temporizada** cada uno de los subsistemas del órgano en el orden correcto:
+
+1. **Iluminación** 
+2. **SBC (Orange Pi)** con un retraso suficiente para que el sistema operativo arranque de forma estable y con este microcontroladores, LEDs RGB.
+3. **Amplificadores de audio**, evitando picos de corriente y protegiendo los altavoces.
+
+El mismo proceso se invierte al apagar, asegurando que cada componente se desconecte de forma segura y ordenada. Este sistema previene daños por encendidos bruscos o cortes inesperados de energía, prolongando la vida útil de todos los componentes del órgano, tal como lo haría un operador humano experimentado.
+
+**Tecnologías:** Microcontrolador dedicado, electrónica de potencia, secuenciación por firmware.
+
+![Sistema inteligente de encendido/apagado](/images/od4.jpg)
+
+---
 
 ### 🧠 Motor de Audio (Software)
 
