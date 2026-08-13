@@ -42,3 +42,6 @@ Este proyecto consta de dos fases que en conjunto mejoraron significativamente l
 **Tecnologías:** Diseño CAD, electrónica de displays de alta potencia, integración de sistemas.
 
 ![Displays gigantes blancos instalados en el templo](/images/nuevo.jpg)
+
+
+[← Volver al Portafolio](/portfolio/)
