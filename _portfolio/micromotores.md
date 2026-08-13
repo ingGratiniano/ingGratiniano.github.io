@@ -43,6 +43,9 @@ Creación de placas en EAGLE y EasyEDA para prototipado y pruebas, incluyendo en
 
 ---
 
+
+[← Volver al Portafolio](/portfolio/)
+
 **Tecnologías:** BLE, IMU, PIC, ESP32, RTOS, EAGLE, EasyEDA, ensamble SMD/THT.
 
 **Resultado:** Mejoras en el control de precisión de la maquinaria, nuevos prototipos funcionales y equipos de prueba para garantizar la calidad de los productos.
