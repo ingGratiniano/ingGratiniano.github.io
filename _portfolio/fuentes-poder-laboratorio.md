@@ -38,3 +38,5 @@ Fuente multicanales para aplicaciones que requieren múltiples voltajes simultá
 Fuente versátil con una salida ajustable para mayor flexibilidad en el laboratorio.
 
 ![Fuente de dos canales con salida ajustable](/images/sp1.jpg)
+
+[← Volver al Portafolio](/portfolio/)
