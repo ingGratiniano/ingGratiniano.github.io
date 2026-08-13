@@ -14,3 +14,5 @@ date: 2025-01-01
 **Mi rol:** Diseño y fabricación de la PCB y desarrollo del firmware.
 
 **Tecnologías:** Microcontroladores, MIDI, diseño de PCB.
+
+[← Volver al Portafolio](/portfolio/)
